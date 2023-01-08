@@ -7,7 +7,12 @@
     "forceConsistentCasingInFileNames": true,
     "strict": true,
     "noImplicitOverride": true,
+<<<<<<< HEAD
     "noPropertyAccessFromIndexSignature": true,
+=======
+    "noPropertyAccessFromIndexSignature": false,
+    "strictPropertyInitialization": false,
+>>>>>>> 8d7688c (k)
     "noImplicitReturns": true,
     "noFallthroughCasesInSwitch": true,
     "sourceMap": true,
